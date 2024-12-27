@@ -1,4 +1,4 @@
-module github.com/sarathkumar17/upstock-sdk
+module github.com/sarathkumarps17/upstock-sdk
 
 go 1.23.1
 
